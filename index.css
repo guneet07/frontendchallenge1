@@ -85,9 +85,6 @@ html, body{
     background-color: #fff175;
     cursor: pointer;
   }
-  /* button > img{ */
-    /* width: 16px; */
-  /* } */
 
   @media screen and (min-width: 600px){
     .card{
