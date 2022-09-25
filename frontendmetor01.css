@@ -7,7 +7,7 @@ html, body{
     font-family: 'Poppins', sans-serif;
   }
   body{
-    background-color: hsl(30, 38%, 92%);
+    background-color: #ede8e3;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -61,14 +61,14 @@ html, body{
     margin: 20px 0;
   }
   .cut-price{
-    color: rgb(54, 117, 73);
+    color: #fff175;
     font-size: 15px;
     font-weight: 100;
     text-decoration: line-through;
     padding: 0 20px;
   }
   button{
-    background-color: rgb(76, 160, 101);
+    background-color: #00ff00;
     color: white;
     border: none;
     border-radius: 10px;
@@ -82,8 +82,7 @@ html, body{
     gap: 10px;
   }
   button:hover{
-    /* background-color: hsl(158, 36%, 30%); */
-    background-color: rgb(54, 117, 73);
+    background-color: #fff175;
     cursor: pointer;
   }
   /* button > img{ */
